@@ -33,7 +33,7 @@ public struct MobilePhone {
 ```
 
 ## Проекты
-- ToDoApp
+- Веб-приложение [ToDoApp](https://github.com/rvitalina/ToDoApp)
 
 ## Языковые навыки
 - Английский язык (уровень B2)
