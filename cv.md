@@ -41,4 +41,4 @@ public struct MobilePhone {
 ## Контактная информация
 - Номер телефона: +375(44)767-04-21
 - E-mail: v.rukus15@gmail.com
-- Telegram: @rvitalina
+- Telegram: [@rvitalina](https://t.me/rvitalina)
